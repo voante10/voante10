@@ -17,6 +17,4 @@
 
 
 
-minhas Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voante10&size_weight=0.5&count_weight=0.5)
